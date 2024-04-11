@@ -1,1 +1,2 @@
 jiji
+global
