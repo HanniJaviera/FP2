@@ -1,0 +1,5 @@
+print ("Ingrese un numero")
+num1 = int(input()) 
+print ("Ingrese un numero")
+num2 = int (input())
+print (num1+num2)
