@@ -1,4 +1,7 @@
 stay=True
+gasto=0
+nombre=""
+edad=0
 while stay:
  print ("--Bienvenido al sistema Python--")
  print ("Seleccione una opción")
@@ -15,13 +18,11 @@ while stay:
         nombre=input()
         print ("este es tu nombre " + nombre)
      case 2:
-        gasto=int(input())
         gasto= gasto + int (input())
-      
      case 3:
         edad = int (input())
      case 4:
-        print ("Hola ",nombre, "y su edad es", edad, "y sus gastos es" ,gasto )
+        print ("Hola ",nombre, "su edad es ", edad, "el total de sus gastos es" ,gasto )
      case 5:
         stay=False
         print ("Gracias por venir") 
