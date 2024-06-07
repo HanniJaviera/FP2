@@ -4,7 +4,7 @@ p=0
 ju=0
 j=0
 listado_productos={}
-nom=input("Para comenzar, ingrese su nombre")
+nom=input("Para comenzar, ingrese su nombre\n")
 while True:
     print('''Elija la comida a comer
           1. Fideos $1490
