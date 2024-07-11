@@ -53,9 +53,14 @@ with open ('archivo.json', 'r') as archivo:
     
 #crear archivo txt
 
-datos = """texto"""
-with open ('cine.txt', 'w') as archivo.txt:
+
+    
+datos = "Este es mi cine"
+with open ('cine.txt', 'w') as archivo:
     archivo.write (datos)
-with open ('cine.txt', 'r') as archivo.txt:
+with open ('cine.txt', 'r') as archivo:
     datos = archivo.read()
 print (datos)
+
+
+
