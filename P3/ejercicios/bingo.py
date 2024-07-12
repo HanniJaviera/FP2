@@ -8,4 +8,3 @@ num=1
 
 lista="Los numeros del bingo son"
 
-with open(f'lista')
