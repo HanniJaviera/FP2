@@ -1,0 +1,110 @@
+Fila 1
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 2
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 3
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 4
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 5
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 6
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 7
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 8
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 9
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible
+Fila 10
+El asiento 1 : disponible
+El asiento 2 : disponible
+El asiento 3 : disponible
+El asiento 4 : disponible
+El asiento 5 : disponible
+El asiento 6 : disponible
+El asiento 7 : disponible
+El asiento 8 : disponible
+El asiento 9 : disponible
+El asiento 10 : disponible

@@ -102,19 +102,25 @@ while True:
     case 3:
         print ("Este es el estado de cada asiento")
         for i, fila in enumerate(cine):
-              for j, lugar in enumerate(fila):
-               estado = "reservado" if lugar else "disponible"
+              for j, asiento in enumerate(fila):
+               estado = "reservado" if asiento else "disponible"
                print ("El asiento", j+1 , "fila", i+1 , ":", estado)
     case 4:
         print ("Este es el total de ventas del día")
         total()
     case 5:
-        dato= ""
+        
         with open ('micine.txt', 'w') as archivo:
-            archivo.write (dato)
-        with open ('micine.txt','r') as archivo:
-             datos = archivo.read()
-        print (dato)
+            for fila in range (10):
+              archivo.write(f"Fila {fila+1}\n")
+              for asiento in range(10):
+                   if asiento == []:
+                       estado = "reservado"
+                   else:
+                       estado = "disponible"
+                   archivo.write (f"El asiento {asiento+1} : {estado}\n")
+
+
     case 6:
         print ("Gracias por venir")
         break

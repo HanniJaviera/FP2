@@ -1,0 +1,45 @@
+Piso 1
+habitacion 1 : reservada
+habitacion 2 : reservada
+habitacion 3 : reservada
+habitacion 4 : reservada
+habitacion 5 : reservada
+habitacion 6 : reservada
+habitacion 7 : reservada
+habitacion 8 : reservada
+Piso 2
+habitacion 1 : reservada
+habitacion 2 : reservada
+habitacion 3 : reservada
+habitacion 4 : reservada
+habitacion 5 : reservada
+habitacion 6 : reservada
+habitacion 7 : reservada
+habitacion 8 : reservada
+Piso 3
+habitacion 1 : reservada
+habitacion 2 : reservada
+habitacion 3 : reservada
+habitacion 4 : reservada
+habitacion 5 : reservada
+habitacion 6 : reservada
+habitacion 7 : reservada
+habitacion 8 : reservada
+Piso 4
+habitacion 1 : reservada
+habitacion 2 : reservada
+habitacion 3 : reservada
+habitacion 4 : reservada
+habitacion 5 : reservada
+habitacion 6 : reservada
+habitacion 7 : reservada
+habitacion 8 : reservada
+Piso 5
+habitacion 1 : reservada
+habitacion 2 : reservada
+habitacion 3 : reservada
+habitacion 4 : reservada
+habitacion 5 : reservada
+habitacion 6 : reservada
+habitacion 7 : reservada
+habitacion 8 : reservada
